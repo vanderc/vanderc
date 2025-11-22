@@ -10,4 +10,4 @@
 - 📫 Can be reach me here as well: https://www.linkedin.com/in/chrisvandermark/
 
 ## Tools
-- Proficient in: Python, HTML, C#
+- Proficient in: Python, HTML, C#, Java
