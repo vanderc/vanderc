@@ -2,6 +2,7 @@
 
 - 🎓 I am a student at Brigham Young University
 - I am studying Software Engineering
+- My goal is to focus on deepening my software development skills and gaining proficiency in new languages and technologies
 - 🌱 I’m currently learning Erlang
 - 📫 How to reach me: cnvandermark@byui.edu
 - 📫 Can be reach me here as well: https://www.linkedin.com/in/chrisvandermark/
