@@ -1,4 +1,4 @@
-(wdd131/images/profile.png)
+![ProfilePicture](wdd131/images/profile.png)
 
 ## About Me
 
