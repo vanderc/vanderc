@@ -1,4 +1,5 @@
-![ProfilePicture](wdd131/images/profile.png)
+
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/2241a86f-4f01-4b81-b77e-4ac68a8f15aa" />
 
 ## About Me
 
