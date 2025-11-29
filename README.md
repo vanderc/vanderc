@@ -1,3 +1,5 @@
+(wdd131/images/profile.png)
+
 ## About Me
 
 - 🎓 I am a student at Brigham Young University
