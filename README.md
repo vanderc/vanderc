@@ -15,5 +15,3 @@
 ## Tools
 - Proficient in: Python, HTML, C#, Java
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanderc&show_icons=true&theme=radical)
