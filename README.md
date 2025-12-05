@@ -14,3 +14,6 @@
 
 ## Tools
 - Proficient in: Python, HTML, C#, Java
+
+
+[![vanderc GitHub stats](https://github-readme-stats.vercel.app/api?username=vanderc)](https://github.com/anuraghazra/github-readme-stats)
