@@ -16,4 +16,4 @@
 - Proficient in: Python, HTML, C#, Java
 
 
-[![vanderc GitHub stats](https://github-readme-stats.vercel.app/api?username=vanderc)](https://github.com/vanderc/github-readme-stats)
+<img src="https://myreadme.vercel.app/api/embed/vanderc?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
